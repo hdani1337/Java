@@ -1,0 +1,5 @@
+Kovács Anna,9A,4.5
+Varga Tibor,9A,4.8
+Tárnok Éva,9B,3.75
+Polgár Árpád,9B,3.50
+Horváth Enikő,9A,4.00
