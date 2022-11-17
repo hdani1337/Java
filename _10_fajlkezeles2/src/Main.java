@@ -125,7 +125,7 @@ public class Main {
     //1. feladat
     public static void smsfajlbeolvasas(){
         try{
-            FileReader fr = new FileReader("sms.txt");
+            FileReader fr = new FileReader("s_10_fajlkezeles2/ms.txt");
             BufferedReader bufferedReader = new BufferedReader(fr);
 
             String line = null;
@@ -155,7 +155,7 @@ public class Main {
     //6. feladat
     public static void mozifajlbeolvasas(){
         try{
-            FileReader fr = new FileReader("mozi.txt");
+            FileReader fr = new FileReader("_10_fajlkezeles2/mozi.txt");
             BufferedReader bufferedReader = new BufferedReader(fr);
 
             mozi = new Mozi();

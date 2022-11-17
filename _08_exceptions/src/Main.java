@@ -43,7 +43,7 @@ public class Main {
     }
 
     public static void fajlkezeles() throws FileNotFoundException {
-        FileReader fr = new FileReader("src/input.txt");
+        FileReader fr = new FileReader("_08_exceptions/src/input.txt");
         try {
             String osszefuzes = "";
             BufferedReader reader = new BufferedReader(fr);

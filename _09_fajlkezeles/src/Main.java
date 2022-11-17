@@ -33,7 +33,7 @@ public class Main {
     public static void fajlbeolvasas(){
         ArrayList<Diak> diakok = new ArrayList<Diak>();
         try{
-            FileReader fr = new FileReader("src/eredmenyek.txt");
+            FileReader fr = new FileReader("_09_fajlkezeles/src/eredmenyek.txt");
             BufferedReader bufferedReader = new BufferedReader(fr);
 
             String line = null;
