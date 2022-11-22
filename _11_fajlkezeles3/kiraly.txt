@@ -1,0 +1,132 @@
+I.István
+1000
+1038
+Árpád-ház
+Péter
+1038
+1041
+Árpád-ház
+Aba Sámuel
+1041
+1044
+Árpád-ház
+I. András
+1046
+1060
+Árpád-ház
+I. Béla
+1060
+1063
+Árpád-ház
+Salamon
+1063
+1074
+Árpád-ház
+I. Géza
+1074
+1077
+Árpád-ház
+I.László
+1077
+1095
+Árpád-ház
+Kálmán
+1095
+1116
+Árpád-ház
+II.István
+1116
+1131
+Árpád-ház
+II.Béla
+1131
+1141
+Árpád-ház
+II. Géza
+1141
+1162
+Árpád-ház
+III. István
+1162
+1172
+Árpád-ház
+I. Ferdinánd
+1526
+1564
+Habsburg-ház
+I. Miksa
+1564
+1576
+Habsburg-ház
+II. Rudolf
+1576
+1608
+Habsburg-ház
+II. Mátyás
+1608
+1619
+Habsburg-ház
+II. Ferdinánd
+1619
+1637
+Habsburg-Lotaringiai-ház
+III. Ferdinánd
+1637
+1657
+Habsburg-Lotaringiai-ház
+IV. Ferdinánd
+1647
+1654
+Habsburg-Lotaringiai-ház
+I. Lipót
+1657
+1705
+Habsburg-Lotaringiai-ház
+I. József
+1705
+1711
+Habsburg-Lotaringiai-ház
+III. Károly
+1711
+1740
+Habsburg-Lotaringiai-ház
+Vencel
+1301
+1305
+Vegyesházi uralkodók
+Ottó
+1305
+1307
+Vegyesházi uralkodó
+I. Károly Róbert
+1308
+1342
+Vegyesházi uralkodó
+I. Lajos
+1342
+1382
+Vegyesházi uralkodó
+Mária
+1382
+1385
+Vegyesházi uralkodó
+II. Károly
+1385
+1386
+Vegyesházi uralkodók
+Zsigmond
+1387
+1437
+Vegyesházi uralkodó
+Albert
+1438
+1439
+Vegyesházi uralkodó
+I. Ulászló
+1440
+1444
+Vegyesházi uralkodó
+V. László
+1444
+1457
+Vegyesházi uralkodó
