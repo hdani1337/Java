@@ -93,7 +93,7 @@ Habsburg-Lotaringiai-ház
 Vencel
 1301
 1305
-Vegyesházi uralkodók
+Vegyesházi uralkodó
 Ottó
 1305
 1307
@@ -113,7 +113,7 @@ Vegyesházi uralkodó
 II. Károly
 1385
 1386
-Vegyesházi uralkodók
+Vegyesházi uralkodó
 Zsigmond
 1387
 1437
