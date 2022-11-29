@@ -1,0 +1,27 @@
+9 10 Budapest London 2 30 WIZZ_AIR
+9 20 Budapest London 2 35 WIZZ_AIR
+10 25 Budapest Madrid 4 20 RYAN_AIR
+10 45 Budapest Stockholm 3 60 RYAN_AIR
+10 50 Budapest Berlin 1 40 RYAN_AIR
+9 20 Budapest Oslo 3 40 RYAN_AIR
+14 20 Budapest Oslo 3 40 LOT
+16 50 Budapest Berlin 1 30 RYAN_AIR
+17 0  BudapestRóma 1 54 LOT
+18 40 Budapest Athén 3 40 LOT
+19 40 Budapest Koppenhága 3 10 KLM
+12 50 Budapest Párizs 2 20 AIR_FRANCE
+14 20 London Budapest 2 45 KLM
+15 30 London Budapest 2 50 KLM
+16 30 London Budapest 2 45 WIZZ_AIR
+17 30 Madrid Budapest 4 20 RYAN_AIR
+9 50 Stockholm Budapest 3 45 RYAN_AIR
+10 30 Berlin Budapest 1 35 RYAN_AIR
+11 40 Oslo Budapest 3 30 RYAN_AIR
+11 45 Oslo Budapest 3 40 LOT
+13 50 Berlin Budapest 1 30 RYAN_AIR
+17 50 Róma Budapest 1 54 LOT
+18 50 Athén Budapest 3 40 LOT
+20 10 Koppenhága Budapest 3 10 KLM
+20 30 Párizs Budapest 2 20 AIR_FRANCE
+22 15 London Budapest 2 30 KLM
+18 50 London Budapest 2 30 KLM

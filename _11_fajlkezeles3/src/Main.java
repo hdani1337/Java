@@ -158,4 +158,6 @@ public class Main {
             }
         }
     }
+
+    /**Feladat: Uralkodóháznak hány év volt az uralkodási ideje?*/
 }
