@@ -1,0 +1,24 @@
+Kerület,Terület,Szoba,Ár,Tuljdonos,Nem
+1,54,2,75,Jánosi Péter,F,U
+1,60,3,80,Kiss Tünde,N,H
+1,39,1,45,Nagy Anikó,N,H
+2,60,2,55,Varga Balázs,N,H
+2,41,1,43,Nagy Enikő,N,H
+1,39,1,47,Hámori László,F,U
+5,70,3,89,Takács Endre,F,U
+7,72,3,85,Magyari Béla,F,U
+7,50,2,56,Tóth Márk,F,H
+8,51,2,40,Márton Abigél,N,H
+9,64,3,67,Sárdi Jenő,F,H
+10,61,2,67,Sipos Miklós,F,U
+13,52,2,51,Gál Helga,N,U
+8,53,2,64,Gombos Judit,N,U
+1,39,1,47,Pécsi Sándor,F,U
+5,70,3,89,Vigh Ferenc,F,H
+7,72,3,85,Csáki Pál,F,H
+7,50,2,56,Miklósa Zsolt,F,H
+8,51,2,40,Honti Zsófia,N,H
+9,64,3,67,Endei Judit,N,H
+10,61,2,67,Pápai Antal,F,H
+13,52,2,51,Horányi Éva,N,H
+8,53,2,64,Gémesi Vera,N,U
