@@ -1,0 +1,15 @@
+#név;terem;tól;ig;téma
+Kolonics Anita;A102;08:30;09:15;Arduino C++ nyelven
+Horvath Pal;A103;09:45;10:3;Linux alapok
+Miklasi Zsolt;A104;08:00;10:30;Ionic programozás
+Biro Tamas;A102;B101;08:00;12:00;Android alapok
+Lakatos Csaba Peter Zsolt ;B102;09:00;10:15;Xamarin fejlesztés
+Banhegyi Balazs;A201;08:00;12:00;Bevezetés az Azure-ba
+dr. Cseke Ferenc;A104;13:30;15:30;Firebase alapok
+Nyiradi Zsolt;A102;14:45;16:30;Django alapok
+Berecz Anna;B302;08:30;09:15;NodeJs alapok
+dr. Tarnok Ferenc;C105;14:30;16:00;NodeJs haladó
+Horvath Laszlo Andras;C106;16:00;16:45;Kotlin programozás
+dr. Gazdag Viktor Endre;B302;15:45;18:15;Unity haladó
+Dr. Vukics Vera;C302;16:30;18:15;Python haladó
+Matyas;B401;17:30;19:15;Haladó .NET programozás
