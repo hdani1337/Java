@@ -1,0 +1,33 @@
+I.István,1000-1038,Árpád-ház
+Péter,1038-1041,Árpád-ház
+Aba Sámuel,1041-1044,Árpád-ház
+I.András,1046-1060,Árpád-ház
+I.Béla,1060-1063,Árpád-ház
+Salamon,1063-1074,Árpád-ház
+I.Géza,1074-1077,Árpád-ház
+I.László,1077-1095,Árpád-ház
+II. Ferdinánd,1619-1637,Habsburg-ház
+III. Ferdinánd,1637-1657,Habsburg-ház
+IV. Ferdinánd,1647-1654,Habsburg-ház
+I. Lipót,1657-1705,Habsburg-ház
+I. József,1705-1711,Habsburg-ház
+Vencel,1301-1305,Vegyesházi
+Ottó,1305-1307,Vegyesházi
+I. Károly Róbert,1308-1342,Vegyesházi
+I. Lajos,1342-1382,Vegyesházi
+Mária,1382-1385,Vegyesházi
+II. Károly,1385-1386,Vegyesházi
+Mária,1386-1395,Vegyesházi
+Zsigmond,1387-1437,Vegyesházi
+Albert,1438-1439,Vegyesházi
+I. Ferdinánd,1526-1564,Habsburg-ház
+I. Miksa,1564-1576,Habsburg-ház
+II. Rudolf,1576-1608,Habsburg-ház
+II. Mátyás,1608-1619,Habsburg-ház
+Kálmán,1095-1116,Árpád-ház
+II.István,1116-1131,Árpád-ház
+II.Béla,1131-1141,Árpád-ház
+II.Géza,1141-1162,Árpád-ház
+III.István,1162-1172,Árpád-ház
+III.Béla,1172-1196,Árpád-ház
+Imre,1196-1204,Árpád-ház
